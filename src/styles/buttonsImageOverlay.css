@@ -1,0 +1,77 @@
+.button-overlay {
+    position: relative;
+    display: inline-block;
+}
+.button-overlay h3 {
+    position: absolute;
+    font-weight: 400;
+    top: 3%;
+    left: 45%;
+}
+.button-overlay button {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 17%;
+    height: 20%;
+    background-color: rgb(198, 255, 249);
+    opacity: 70%;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.button-overlay button:hover {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 17%;
+    height: 20%;
+    background-color: purple;
+    opacity: 70%;
+    border: none;
+    border-radius: 10%;
+}
+.button1 {
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+.button2 {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+.button3 {
+    position: absolute;
+    top: 25%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.button4 {
+    position: absolute;
+    top: 25%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+.button5 {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+.button6 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.button7 {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}

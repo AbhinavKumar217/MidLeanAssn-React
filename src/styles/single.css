@@ -1,0 +1,10 @@
+.single {
+    flex: 9;
+    margin: 30px;
+}
+
+.singlePostImg {
+    margin-bottom: 50px;
+    width: 100%;
+}
+

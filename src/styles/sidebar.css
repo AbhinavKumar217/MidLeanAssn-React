@@ -1,0 +1,11 @@
+.sidebar {
+    flex: 3;
+    margin-top: 70px;
+}
+
+.sidebarImg {
+    margin-top: 50px;
+    width: 125%;
+    border-radius: 5px;
+    cursor: pointer;
+}
